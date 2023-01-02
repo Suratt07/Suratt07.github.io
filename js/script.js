@@ -1,24 +1,24 @@
 tippy('#instagram', {
-  content: '1am_anubhab',
+  content: 'Suratt Suyel',
 });
 tippy('#steam', {
-  content: 'ANUBH4B',
+  content: 'Suratt',
 });
-tippy('#xbox', {
-  content: 'ANUBH4B',
-});
+//tippy('#xbox', {
+//  content: 'ANUBH4B',
+//});
 tippy('#github', {
-  content: 'ANUBH4B',
+  content: 'Suratt07',
 });
 tippy('#discord', {
-  content: 'ANUBH4B#4069',
+  content: 'Suratt#1123',
 });
 tippy('#twitter', {
-  content: 'ANUBH4B',
+  content: 'Suratt',
 });
 tippy('#youtube', {
-  content: 'ANUBH4B PlayZ',
+  content: 'Surtt PlayZ',
 });
 tippy('#email', {
-  content: 'contact@anubh4b.xyz',
+  content: 'contact@Suratt.xyz',
 });

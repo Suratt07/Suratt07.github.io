@@ -3,14 +3,18 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: #08080A;
+ /* background-color: #0543ec;*/
+ background-image: url("../images/wp2608514.webp");
+ background-repeat: no-repeat, repeat;
+ background-size: cover;
+ 
   margin: 0;
   overflow: hidden;
 }
 
 *{
   font-family: 'Poppins', sans-serif;
-  color: #ffffff;
+  color: #f3f9ff;
   transition: 0.5s ease-out all;
 }
 
@@ -18,14 +22,14 @@ html, body {
   margin: 30px 0;
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 65%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
 
 #header{
   margin: 0;
-  text-align: left;
+  text-align: left ;
 }
 
 #title, #subtitle, #color, #exclamation{
@@ -37,7 +41,7 @@ html, body {
 }
 
 #color{
-  background-color: #798fd2;
+  background-color: #6b6b6b;
   padding: 0px 5px;
   margin: 0;
 }
@@ -52,7 +56,7 @@ html, body {
 }
 
 a{
-  color: #798fd2;
+  color: #0b44ee;
   text-decoration: none;
 }
 
@@ -80,7 +84,7 @@ a:hover{
 }
 
 .social img:hover{
-  border: 1px solid #798fd2;
+  border: 1px solid #0b44ee;
 }
 
 .social img:active{
@@ -118,6 +122,6 @@ a:hover{
 
 @media only screen and (min-width: 768px) {
   #content, #header, #text{
-    max-width: 30vw;
+    max-width: 45vw;
   }
 }
