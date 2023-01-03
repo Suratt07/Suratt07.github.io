@@ -13,8 +13,8 @@ tippy('#github', {
 tippy('#discord', {
   content: 'Suratt#1123',
 });
-tippy('#twitter', {
-  content: 'Suratt',
+tippy('#Facebook', {
+  content: 'Suratt Suyel',
 });
 tippy('#youtube', {
   content: 'Surtt PlayZ',
